@@ -1,3 +1,3 @@
 ele=list(range(1,6))
 print (ele)
-print (max(ele))
+print (sum(ele))
